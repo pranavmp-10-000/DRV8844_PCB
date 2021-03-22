@@ -1,0 +1,18 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: DRV8844.CMPcbDoc   22-03-2021  20:36:56
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : DRV8844.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        15.75mil (0.40005mm)     Round          15               0.65 Inch (16.50 mm)
+T2        28mil (0.7112mm)         Round          8                2.69 Inch (68.22 mm)
+T3        39.37mil (1mm)           Round          14               3.85 Inch (97.84 mm)
+T4        45mil (1.143mm)          Round          3                0.20 Inch (5.08 mm)
+T5        55.12mil (1.40005mm)     Round          2                0.59 Inch (15.00 mm)
+---------------------------------------------------------------------------
+Totals                                            42               7.98 Inch (202.65 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00
